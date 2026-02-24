@@ -81,5 +81,5 @@ O relatório final está disponível em formato **PDF**, contendo todas as pági
 
 ## 👤 Autor
 
-Projeto reproduzido por **[Seu Nome]**  
+Projeto reproduzido por **Vinícius Lima**  
 Formação Power BI Analyst – DIO
